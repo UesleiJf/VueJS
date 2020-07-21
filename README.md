@@ -1,16 +1,19 @@
 #### README
 
-Configuration: https://jsfiddle.net/smax/c4mcxu7s/
-Documentation: https://br.vuejs.org/v2/guide/installation.html
+Projedo desenvolvido a nível de conhecimento Vuew JS 2
 
-Utils: 
+### Utils: 
 
-Documentação Oficial - Introdução: https://br.vuejs.org/v2/guide/
+* Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
-Documentação Oficial - Sintaxe de Template: https://br.vuejs.org/v2/guide/syntax.html
+* Documentation: https://br.vuejs.org/v2/guide/installation.html
 
-Documentação Oficial - Manipulação de Eventos: https://br.vuejs.org/v2/guide/events.html
+* Documentação Oficial - Introdução: https://br.vuejs.org/v2/guide/
 
-Documentação Oficial - Dados Computados & Observadores: https://br.vuejs.org/v2/guide/computed.html
+* Documentação Oficial - Sintaxe de Template: https://br.vuejs.org/v2/guide/syntax.html
 
-Documentação Oficial - Interligações de Classe e Estilo: https://br.vuejs.org/v2/guide/class-and-style.html
+* Documentação Oficial - Manipulação de Eventos: https://br.vuejs.org/v2/guide/events.html
+
+* Documentação Oficial - Dados Computados & Observadores: https://br.vuejs.org/v2/guide/computed.html
+
+* Documentação Oficial - Interligações de Classe e Estilo: https://br.vuejs.org/v2/guide/class-and-style.html
