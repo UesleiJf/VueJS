@@ -17,3 +17,7 @@ Projedo desenvolvido a nível de conhecimento Vuew JS 2
 * Documentação Oficial - Dados Computados & Observadores: https://br.vuejs.org/v2/guide/computed.html
 
 * Documentação Oficial - Interligações de Classe e Estilo: https://br.vuejs.org/v2/guide/class-and-style.html
+
+* Documentação Oficial - Renderização Condicional: https://br.vuejs.org/v2/guide/conditional.html
+
+* Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
