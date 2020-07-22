@@ -2,8 +2,8 @@
 <script src="https://unpkg.com/vue"></script>
 
 <div id="app">
-    <p>Usuário Logado: {{ nome }</p>
-    <p>Nenhum usuário logado</p>
+    <p v-if="logado">Usuário Logado: {{ nome }}</p>
+    <p v-else>Nenhum usuário logado</p>
     <button @click="logado = !logado">
         {{ logado ? 'Sair' : 'Entrar' }}</button>
 </div>
