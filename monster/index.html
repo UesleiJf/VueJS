@@ -35,7 +35,15 @@
             <div v-else-if="playerLife == 0 && monsterLife > 0" class="lose">Você Perdeu</div>
             <div v-else class="draw">Empatou!</div>
         </div>
-        <div class="panel buttons"></div>
+        <div class="panel buttons">
+            <template v-if="running">
+                <button class="btn attack">Ataque</button>
+                <button class="btn special-attack">Ataque Especial</button>
+                <button class="btn health">Curar</button>
+                <button class="btn giv-up">Desistir</button>
+            </template>
+            <button v-else class="btn new-game">Iniciar Jogo</button>
+        </div>
         <div class="panel logs"></div>
     </div>
     <script src="app.js"></script>
