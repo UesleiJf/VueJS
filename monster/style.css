@@ -52,6 +52,7 @@ html {
 }
 
 /* Área do Resultado */
+
 .result {
     display: flex;
     justify-content: center;
@@ -112,6 +113,7 @@ html {
 }
 
 /* Área de Log */
+
 .logs ul {
     display: flex;
     flex-direction: column;
