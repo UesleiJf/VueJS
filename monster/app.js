@@ -31,8 +31,12 @@ new Vue({
             this.registerLog(`${source} atingiu ${target} com ${hurt}`, cls)
         },
         healAndHurt(){
-            this.heal(10, 15)
-            this.hurt('playerLife', 7, 12, false, 'Monstro', 'Jogador', 'monster')
+            if(this.playerLife < 100){
+                this.heal(10, 15)
+                this.hurt('playerLife', 7, 12, false, 'Monstro', 'Jogador', 'monster')
+            } else {
+                alert('Você está com 100% de vida!!!')
+            }
         },
         heal(min, max){
             const heal = this.getRandom(min, max)
@@ -48,6 +52,8 @@ new Vue({
         },
         pullOff (){
             this.running = false
+            this.playerLife = 100
+            this.monsterLife = 100
             this.logs = []
         }
     },
