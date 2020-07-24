@@ -21,3 +21,5 @@ Projedo desenvolvido a nível de conhecimento Vuew JS 2
 * Documentação Oficial - Renderização Condicional: https://br.vuejs.org/v2/guide/conditional.html
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
+
+* Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
