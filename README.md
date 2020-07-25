@@ -4,6 +4,8 @@ Projedo desenvolvido a nível de conhecimento Vuew JS 2
 
 ### Utils: 
 
+#### Módulo 01
+
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
 * Documentation: https://br.vuejs.org/v2/guide/installation.html
@@ -22,9 +24,11 @@ Projedo desenvolvido a nível de conhecimento Vuew JS 2
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
+#### Módulo 02
+
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
-* ".vue" documentação oficial: https://br.vuejs.org/v2/guide/single-file-components.html
+* Vue documentação oficial: https://br.vuejs.org/v2/guide/single-file-components.html
 
 *  render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
 
