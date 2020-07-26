@@ -1,6 +1,6 @@
 #### README
 
-Projedo desenvolvido a nível de conhecimento Vuew JS 2
+Projedo desenvolvido em Vuew JS2
 
 ### Utils: 
 
