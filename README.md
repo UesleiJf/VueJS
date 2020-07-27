@@ -34,4 +34,6 @@ Projedo desenvolvido em Vuew JS2
 
 * CLI https://cli.vuejs.org/
 
+#### Ferramentas
 
+* Ferramenta de Desenvolvimento Vue (https://github.com/vuejs/vue-devtools)
