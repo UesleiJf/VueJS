@@ -1,28 +1,35 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div id="app">
+      {{ titulo }}
+      <hr>
+      <button @click='alterar' class="btn btn-success">Alterar</button>
+    </div>
+    
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
+    data: function(){
+      return {
+        titulo: 'Aqui é o data Vue JS'
+      }
+    },
+    methods: {
+      alterar() {
+          return {
+            titulo: this.titulo += '#'
+          }
+      }
+    }
+
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  #app{
+    display: flex;
+    width: 50%;
+    background-color: #cecece;
+    color: #000;
+  }
 </style>
