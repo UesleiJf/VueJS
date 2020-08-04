@@ -30,7 +30,7 @@ Projedo desenvolvido em Vuew JS2
 
 * Vue documentação oficial: https://br.vuejs.org/v2/guide/single-file-components.html
 
-*  render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
+* Componente render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
 
 * CLI https://cli.vuejs.org/
 
