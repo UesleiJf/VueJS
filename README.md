@@ -38,6 +38,10 @@ Projedo desenvolvido em Vuew JS2
 
 * Documentação Oficial - Eventos Personalizados: https://br.vuejs.org/v2/guide/components.html#Enviando-Mensagens-ao-Pai-com-Eventos
 
+* Documentação Oficial - Slots: https://br.vuejs.org/v2/guide/components.html#Distribuicao-de-Conteudo-com-Slots
+
+* Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
+
 #### Ferramentas
 
 * Ferramenta de Desenvolvimento Vue (https://github.com/vuejs/vue-devtools)
