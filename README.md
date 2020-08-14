@@ -2,8 +2,6 @@
 
 Projedo desenvolvido em Vuew JS2
 
-### Utils: 
-
 #### Módulo 01
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
