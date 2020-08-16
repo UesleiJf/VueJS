@@ -1,6 +1,6 @@
 #### README
 
-Projedo desenvolvido em Vuew JS2
+Projetos desenvolvidos em Vuew JS2
 
 #### Módulo 01
 
