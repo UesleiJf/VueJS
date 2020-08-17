@@ -1,4 +1,4 @@
-# projeto-02-tarefas
+## projeto-02-tarefas
 
 ## Project setup
 ```
@@ -21,4 +21,5 @@ npm run lint
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
