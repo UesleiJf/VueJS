@@ -1,8 +1,8 @@
-#### README
+### README
 
 Projetos desenvolvidos em Vuew JS2.
 
-#### Módulo 01
+### Módulo 01
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
@@ -22,7 +22,7 @@ Projetos desenvolvidos em Vuew JS2.
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-#### Módulo 02
+### Módulo 02
 
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
@@ -40,9 +40,9 @@ Projetos desenvolvidos em Vuew JS2.
 
 * Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
 
-#### Ferramentas
+### Ferramentas
 
 * Ferramenta de Desenvolvimento Vue (https://github.com/vuejs/vue-devtools)
 
-#### Projetos
+### Projetos
 
