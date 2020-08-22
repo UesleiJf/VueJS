@@ -44,5 +44,3 @@ Projetos desenvolvidos em Vuew JS2 (Udemy).
 
 * Ferramenta de Desenvolvimento Vue (https://github.com/vuejs/vue-devtools)
 
-### Projetos
-
