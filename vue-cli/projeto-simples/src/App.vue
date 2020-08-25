@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-      {{ titulo }}
+      Esse é o título: {{ titulo }}
       <hr>
       <button @click='alterar' class="btn btn-success">Alterar</button>
     </div>
