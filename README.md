@@ -26,8 +26,6 @@ Projetos desenvolvidos em Vuew JS2 (Udemy).
 
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
-* Vue documentação oficial: https://br.vuejs.org/v2/guide/single-file-components.html
-
 * Componente render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
 
 * CLI https://cli.vuejs.org/
