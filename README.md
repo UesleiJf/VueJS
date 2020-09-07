@@ -22,7 +22,7 @@ Projetos desenvolvidos em Vuew JS2 (Udemy)
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-### Módulo 02
+#### Módulo 02
 
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
