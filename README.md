@@ -1,4 +1,4 @@
-## README
+-## README
 
 Projetos desenvolvidos em Vuew JS2 (Udemy)
 
@@ -22,7 +22,7 @@ Projetos desenvolvidos em Vuew JS2 (Udemy)
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-#### Módulo 02
+### Módulo 02
 
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
@@ -37,3 +37,4 @@ Projetos desenvolvidos em Vuew JS2 (Udemy)
 * Documentação Oficial - Slots: https://br.vuejs.org/v2/guide/components.html#Distribuicao-de-Conteudo-com-Slots
 
 * Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
+
