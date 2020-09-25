@@ -1,6 +1,6 @@
 ## README
 
-Projetos desenvolvidos em Vuew JS2 (Udemy)
+Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 ### Módulo 01
 
