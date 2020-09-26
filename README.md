@@ -38,4 +38,4 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 * Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
 
-
+UesleiJF
