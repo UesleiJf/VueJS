@@ -1,8 +1,8 @@
-### README
+## README
 
 Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
-## Módulo 01
+### Módulo 01
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
@@ -22,7 +22,7 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-## Módulo 02
+### Módulo 02
 
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
@@ -40,4 +40,4 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 *
 
-Ueslei 2020.
+Ueslei JF 2020.
