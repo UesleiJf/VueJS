@@ -1,8 +1,8 @@
-### README
+## README
 
 Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
-### Links das Documentações
+#### Links das Documentações
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
