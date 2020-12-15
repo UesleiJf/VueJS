@@ -2,7 +2,7 @@
 
 Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
-### Módulo 01
+#### Links das Documentações
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
@@ -22,13 +22,9 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-### Módulo 02
-
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
 * Componente render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
-
-* CLI https://cli.vuejs.org/
 
 * Documentação Oficial - Props: https://br.vuejs.org/v2/guide/components.html#Passando-Dados-aos-Filhos-com-Props
 
