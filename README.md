@@ -1,8 +1,8 @@
-### README.md
+#### README.md
 
 Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
-#### Links das Documentações
+##### Links das Documentações
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
@@ -36,4 +36,4 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 *
 
-Ueslei JF 2020.
+Ueslei J.F. 2020.
