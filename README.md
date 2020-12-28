@@ -36,4 +36,4 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 *
 
-Ueslei J.F. 2020.
+Ueslei JF 2020.
