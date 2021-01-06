@@ -4,12 +4,7 @@
     <p>{{ contador }}</p>
     <!-- $event é uma palavra reservada, tem que ser escrita dessa forma! -->
     <button v-on:click="somar(5, $event)">Somar 1</button>
-    <p v-on:mousemove="atualizarXY">Mouse: {{ x }} {{ y }}
-        <span v-on:mousemove.stop="">PARAR AQUI!  </span>
-    </p>
-    <!-- Pode usar o stop.prevent para eliminar os clicks e eventos -->
-    <a v-on:click.prevent="" href="http://google.com">Google</a>
-    <input type="text" v-on:keyup.enter.alt="exibirAlerta">
+    <p v-on:mousemove="atualizarXY">Mouse: {{ x }} {{ y }}</p>
 </div>
 
 <script>
@@ -28,12 +23,6 @@
             atualizarXY(e){
                 this.x = event.clientX
                 this.y = event.clientY
-            },
-            parar(event){
-                event.stopPropagation()
-            },
-            exibirAlerta(){
-                alert("Clicou aqui!")
             }
         }
     })

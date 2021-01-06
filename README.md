@@ -1,10 +1,8 @@
-## README
+### README.md
 
-Projedo desenvolvido em Vuew JS2
+Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
-### Utils: 
-
-#### Módulo 01
+##### Links das Documentações
 
 * Configuration: https://jsfiddle.net/smax/c4mcxu7s/
 
@@ -24,16 +22,22 @@ Projedo desenvolvido em Vuew JS2
 
 * Documentação Oficial - Renderização de Listas: https://br.vuejs.org/v2/guide/list.html
 
-#### Módulo 02
-
 * Documentação Oficial - A Instância Vue: https://br.vuejs.org/v2/guide/instance.html
 
-* Vue documentação oficial: https://br.vuejs.org/v2/guide/single-file-components.html
+* Componente render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
 
-*  render()  documentação oficial: https://br.vuejs.org/v2/guide/render-function.html
+* Documentação Oficial - Props: https://br.vuejs.org/v2/guide/components.html#Passando-Dados-aos-Filhos-com-Props
 
-* CLI https://cli.vuejs.org/
+* Documentação Oficial - Eventos Personalizados: https://br.vuejs.org/v2/guide/components.html#Enviando-Mensagens-ao-Pai-com-Eventos
 
-#### Ferramentas
+* Documentação Oficial - Slots: https://br.vuejs.org/v2/guide/components.html#Distribuicao-de-Conteudo-com-Slots
 
+* Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
+
+*
+
+<<<<<<< HEAD
 * Ferramenta de Desenvolvimento Vue (https://github.com/vuejs/vue-devtools)
+=======
+Ueslei JF 2020.
+>>>>>>> a0da4692bbf9f2eb36993146c5707312b5ea4f40

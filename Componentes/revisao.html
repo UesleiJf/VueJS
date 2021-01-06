@@ -1,0 +1,25 @@
+<meta charset="UTF-8">
+<script src="https://unpkg.com/vue"></script>
+
+<div id="app">
+    <contador></contador>
+</div>
+
+<script>
+    Vue.component('contador', {
+        template: `
+            <span> {{ contador }}</span>
+            <button @click="contador++">Somar</button>
+            <button @click="contador--">Subtrair</button>
+        `,    
+        data() {
+            return {
+                contador: 0
+            }
+        }
+    })
+
+    new Vue({
+        el: "#app",
+    })
+</script>
