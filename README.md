@@ -34,6 +34,6 @@ Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
 * Documentação Oficial - Componentes Dinâmicos: https://br.vuejs.org/v2/guide/components.html#Componentes-Dinamicos
 
-*
+* Documentação Oficial - Dados Computados & Observadores: https://br.vuejs.org/v2/guide/computed.html
 
 Ueslei JF 2020.
