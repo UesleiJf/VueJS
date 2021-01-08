@@ -1,4 +1,4 @@
-### README.md
+### README
 
 Projetos desenvolvidos em Vuew JS2 (Curso Udemy)
 
